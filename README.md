@@ -1,7 +1,7 @@
 # bonsai-small
 ![logo](/favicon.png)
 
-Try at https://xanxys.github.io/bonsai-small.
+Try at https://xy-kasumi.github.io/bonsai-small.
 
 ## Overview
 ![Screenvideo](/summary.gif)
